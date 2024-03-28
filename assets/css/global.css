@@ -6,6 +6,9 @@
 body {
     background-color: #f6f8fc;
 }
+h1{
+    color: rgba(49, 14, 131, 0.527);
+}
 
 .content {
     width: 100vw;
